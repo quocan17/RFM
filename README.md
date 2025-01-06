@@ -34,7 +34,7 @@ Key highlights of the project include:
 
 ## Implementation
 
-See the details of my project [click here](https://github.com/nguyenanhtuan1102/RFM-Analysis/blob/master/RFM.ipynb)
+See the details of my project [click here](https://github.com/quocan17/RFM/blob/master/RFM.ipynb)
 
 ## Visualization
 
